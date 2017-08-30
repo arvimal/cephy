@@ -1,2 +1,4 @@
 # cephy
-An Electron app to talk with a Ceph cluster via ReST
+
+This is Cephy, a GUI application that talks with your Ceph cluster.
+
