@@ -11,6 +11,6 @@
   "author": "Vimal A.R (arvimal@yahoo.in)",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.7.5"
+    "electron": "^9.1.0"
   }
 }
